@@ -1,0 +1,1 @@
+# AI-CUP-2024-Competition-to-predict-power-generation-based-on-regional-microclimate-data-main
